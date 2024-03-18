@@ -1,4 +1,4 @@
 # fypproject
 FYP Project 2024
 
-Welcome to my project.
+Welcome to my project. (Harith Haiqal)
